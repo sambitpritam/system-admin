@@ -1,6 +1,6 @@
 # Linux Commands
 
-Youtube Tutorial Link: https://youtu.be/k1sc4_-e-5U?t=7619
+This tutorial helps in understanding the basic linux commands. 
 
 ## Commands:
 
